@@ -57,6 +57,7 @@ Clean and minimal interface for presentation
 📸 Preview
 
 ![Dashboard Preview](preview.png)
+![Dashboard Preview](3dmap.png)
 
 🔄 Refresh Instructions
 
@@ -71,6 +72,9 @@ Handling logs or records too large for standard Excel sheets
 Building dashboards without learning new BI tools
 
 📎 How to Explore
+
+📥 The Excel file can be downloaded using the “View Raw” button above.
+It is not previewable on GitHub due to dynamic content (Power Query + PivotTables).
 
 Open the .xlsx file
 
